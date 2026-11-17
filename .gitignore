@@ -1,0 +1,25 @@
+# Python and notebook working files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+
+# Machine-local settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# External datasets and generated analysis artifacts
+/data/
+/results/
+/group_results*/
+/checkpoints_gddm_joint/
+/checkpoints_unified_joint/unified_joint_model.keras
+/checkpoints_unified_joint/unified_joint_model_behavior.keras
+/parameter_recovery.png
+/parameter_dependencies.png
+/trial_dynamics*.png

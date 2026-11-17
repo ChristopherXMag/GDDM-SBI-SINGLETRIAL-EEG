@@ -1,0 +1,13 @@
+# Dependency inventory for the published research code, not a tested lockfile.
+# The thesis used BayesFlow 2.0; saved archives report Keras 3.10.0.
+# Review docs/reproduction.md before installing or loading historical checkpoints.
+bayesflow>=2,<3
+keras>=3,<4
+torch
+pyddm
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+jupyterlab

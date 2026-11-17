@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this research code, please cite the accompanying master's thesis described in the README."
+type: software
+title: "GDDM-SBI-SINGLETRIAL-EEG: Joint Modeling of EEG and Behavioral Data"
+authors:
+  - family-names: Xue
+    given-names: Jiaqi
+repository-code: "https://github.com/ChristopherXMag/GDDM-SBI-SINGLETRIAL-EEG"
+url: "https://github.com/ChristopherXMag/GDDM-SBI-SINGLETRIAL-EEG"
+abstract: "Research code for generalized drift-diffusion modeling and amortized simulation-based inference with reaction times, choices, N200 latency, and CPP slope."
+keywords:
+  - generalized drift-diffusion model
+  - EEG
+  - simulation-based inference
+  - BayesFlow
+  - single-trial ERP
